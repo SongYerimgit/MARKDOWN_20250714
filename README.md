@@ -1,5 +1,20 @@
 # MARKDOWN_20250714
 MARKDOWN_20250714
+
+## 10. 체크 리스트
+`[] 또는 [X]를 사용하여 체ㅐ크ㅜ MARKDOWN_20250714
+MARKDOWN_20250714
+
+## 10. 체크 리스트
+`[] 또는 [X]를 사용하여 체ㅐ크ㅜ
+
+
+### 8. 이미지
+`이미지![이미지 텍스트] ([이미지URL](https://files.slack.com/files-tmb/T05V8JP33K8-F095LNQRCRK-1d108a6f0d/layout_720.png))
+
+### 7. 강조 (
+
+
 ### 6. 링크 ( Link )
 --`[링크텍스](URL) 형태로 작성 합니다.`
 [[PCWK_DAUM](https://cafe.daum.net/pcwk)]
